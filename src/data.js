@@ -1,27 +1,27 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "League Simulator",
+    subtitle: "My React with Postgresql database project and Tailwind for styling",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "When was a kid, i liked so much making tournaments with nations teams or clubs. Really wanted to make an app to reproduce this, and if I had this app when I was young, probably I would really use it often!",
+    image: "./league-simulator.gif",
+    link: "https://leaguesimulator.netlify.app/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Color Grid Game",
+    subtitle: "My first own game app with Javascript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "The rules are simple. Try to make all blocks the same color, moving around the blocks with directional keys",
+    image: "./color-grid-game.gif",
+    link: "https://color-grid-game.netlify.app/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Point HQ Store Site",
+    subtitle: "React, Context Provider and React-Transitions",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "This is an inicial version of website i'm creating. Point HQ is a famous brazilian comic store when i'm worked more than 14 years.",
+    image: "./pointhq.gif",
+    link: "https://pointhq.netlify.app/",
   },
   {
     title: "Epic Todo App",
@@ -53,8 +53,8 @@ export const testimonials = [
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Python",
+  "SQL",
+  "Tailwindcss",
+  "Flask",
 ];
