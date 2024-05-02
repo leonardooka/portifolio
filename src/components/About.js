@@ -20,9 +20,7 @@ export default function About() {
               </div>
               
               <p className="mb-8 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-                Laborum, voluptas natus?
+              Enthusiastic about logical reasoning and algorithmic creation, driven by the thrill of problem-solving and error resolution.
               </p>
               <div className="flex justify-center">
                 <a

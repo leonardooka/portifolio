@@ -24,12 +24,12 @@ export const projects = [
     link: "https://pointhq.netlify.app/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Cocktail Recipe Site",
+    subtitle: "Responsive screen website with React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "Search for recipes from a huge list of drinks from around the world, and save your favorites.",
+    image: "./cocktail-recipe.gif",
+    link: "https://worldcocktailrecipes.netlify.app/",
   },
 ];
 
