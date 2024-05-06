@@ -12,7 +12,7 @@ export default function Projects() {
                 Apps I've Built
               </h1>
               <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-              "Below is a selection of my personal projects, each one representing a blend of my technical expertise, enjoyment, diligent research, and dedicating my time all day, every day to learning. These projects reflect my commitment to the continuous pursuit of excellence and evolution."
+              Below is a selection of my personal projects, each one representing a blend of my technical expertise, enjoyment, diligent research, and dedicating my time all day, every day to learning. These projects reflect my commitment to the continuous pursuit of excellence and evolution.
               </p>
             </div>
             <div className="flex flex-wrap -m-4">
